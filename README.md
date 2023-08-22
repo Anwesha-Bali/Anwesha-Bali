@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anwesha-Bali
 - 👀 I’m interested in Machine Learning, AI and Web Dev.
 - 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on Web Dev Porjects
+- 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me : feel free to email me at a2bali@uwaterloo.ca
 
 <!---
